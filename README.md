@@ -1,4 +1,12 @@
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=codecat0&show_icons=true&theme=shades-of-purple" /> 
+</a>
+                                                                                                                 
 ### Hi there 👋
+
+- 🔭 I’m currently in Hong Kong, China
+- 📫 How to reach me: `hust.why@qq.com`
+- 🌱 I’m currently working on low-level computer vision and neural rendering.
 
 <!--
 **codecat0/codecat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
