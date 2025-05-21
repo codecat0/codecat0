@@ -4,7 +4,7 @@
                                                                                                                  
 ### Hi there 👋
 
-- 🔭 I’m currently in Beijing, China
+- 🔭 I’m currently in Changsha, China
 - 📫 How to reach me: `2049413359@qq.com`
 - 🌱 I’m currently working on low-level Computer Vision and Medical Image Segmentation.
 
