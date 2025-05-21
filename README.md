@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently in Changsha, China
 - 📫 How to reach me: `2049413359@qq.com`
-- 🌱 I’m currently working on low-level Computer Vision and Medical Image Segmentation.
+- 🌱 I’m currently working on Computer Vision and Medical Image Segmentation.
 
 <!--
 **codecat0/codecat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
